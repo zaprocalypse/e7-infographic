@@ -3,14 +3,14 @@
 
 This is a tool for turning builds within Epic7 into easy to share screenshots containing all relevant information. This tool HEAVILY relies on Fribbel's Epic 7 Optimizer, so [if you don't know what I'm talking about, check that out first!]((https://github.com/fribbels/Fribbels-Epic-7-Optimizer/)) 
 
-Generally speaking, the goal of this tool is first to provide information, and then secondarily look good. I am not a graphics designer - so you may find it looks a bit boring - please give any suggestions for designs or feedback and I'll see what I can do. Currently it's setup in a super hacky way, but if there's interest I'd love to make it easier for people to make their own structures. 
+Generally speaking, the goal of this tool is first to provide information, and then secondarily look good. I am not a graphics designer - so you may find it looks a bit boring - please give any suggestions for designs or feedback and I'll see what I can do. Currently it's setup in a super hacky way, but if there's interest I'd love to make it easier for people to make their own designs. 
 
 Also, this work is almost entirely dependant on the work that Fribbels has done on their optimizer - and I want to give massive kudos and credit to them for their work. All the data, values, calculations and stat definitions from this come directly from their work, and all I've done is attach some image generation to it, so give them lots of kudos/support!
 
 The remainder of the dependancies is on the [EpicSevenDB.com API](https://api.epicsevendb.com/) - which is where all the images and some other base stat information comes from. Super respect for having an open API that allows for projects like this to even exist. 
 
 
-Example Infographic:
+**Example Infographic:**
 ![](https://i.imgur.com/nVAVYtd.png)
 _________________
 ## Requirements
