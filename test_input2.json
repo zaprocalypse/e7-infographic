@@ -1,0 +1,27 @@
+[
+  {
+   "name": "Basar",
+   "artifact": "Tagehel's Ancient Book",
+   "artifact_level": 24,
+   "skill_levels": [0,0,0]
+  },
+  {
+   "name": "Elphelt",
+   "artifact": "Sashe Ithanes",
+   "artifact_level": 30,
+   "skill_levels": [0,0,4]
+ },
+  {
+   "name": "Arbiter Vildred",
+   "artifact": "Alexa's Basket",
+   "artifact_level": 30,
+   "skill_levels": [6,6,3]
+  },
+  {
+   "name": "Researcher Carrot",
+   "artifact": "Tagehel's Ancient Book",
+   "artifact_level": 30,
+   "skill_levels": [7,2,6]
+  }
+]
+

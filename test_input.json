@@ -1,0 +1,27 @@
+[
+  {
+   "name": "Sigret",
+   "artifact": "Daydream Joker",
+   "artifact_level": 30,
+   "skill_levels": [5,5,5]
+  },
+  {
+   "name": "Seaside Bellona",
+   "artifact": "Ms. Confille",
+   "artifact_level": 15,
+   "skill_levels": [6,3,6]
+ },
+  {
+   "name": "Clarissa",
+   "artifact": "Daydream Joker",
+   "artifact_level": 30,
+   "skill_levels": [0,0,0]
+  },
+  {
+   "name": "General Purrgis",
+   "artifact": "War Horn",
+   "artifact_level": 15,
+   "skill_levels": [6,3,6]
+  }
+]
+
